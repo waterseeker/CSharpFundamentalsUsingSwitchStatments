@@ -10,6 +10,7 @@ namespace CSharpFundamentalsUsingSwitchStatements
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
